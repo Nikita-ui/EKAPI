@@ -1,0 +1,42 @@
+.card{
+    width: 1140px;
+
+    border-radius: 10px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.1);
+    margin-bottom:30px;
+}
+p{
+    font-size: 20px;
+}
+.card{
+display:flex;
+flex-direction: row;
+flex-wrap: wrap;
+}
+#icons2{
+    display:flex;
+    flex-direction: column; 
+    flex-wrap: wrap;
+    color:grey;
+}
+#icons1{
+    display:flex;
+    flex-direction: column; 
+    flex-wrap: wrap;
+    color:grey;
+}
+#past_EventCards{
+    justify-content: space-between;
+    margin-bottom:30px;
+}
+.profile{
+display:flex;
+justify-content: flex-start;
+flex-wrap: wrap;
+margin:20px 40px 20px 40px;
+font-family: SFUIDisplay;
+font-size: 14px;
+}
+#user_prf .MuiButton-sizeLarge {
+  margin-right:20px;
+}

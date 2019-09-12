@@ -1,0 +1,84 @@
+#slider_row{
+
+  position: relative;
+}
+#infoi
+{
+width:100%;
+height:100%;
+position: absolute;
+}
+#navi
+{
+width:100%;
+height:100%;
+position: relative;
+}
+#navi {
+    z-index:-1;
+}
+#user_role,#user_role1, #user_role2, #it_works{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin:70px 0px 0px 0px;
+}
+#user_role1{
+   margin:30px 0px 30px 0px;
+}
+ #user_role2{
+  margin:10px 0px 10px 0px;
+ }
+#user_role img{
+  width:30px;
+  height:31px;
+  margin:0px 100px 0px 100px;
+}
+#user_role1 div{
+  margin:0px 90px 0px 90px;
+  font-family: Barlow;
+  font-size: 14px;
+  font-weight: 600;
+}
+#user_role2 div{
+  margin:0px 40px 0px 40px;
+  width: 150px;
+  font-family: ProductSans;
+  font-size: 10px;
+  line-height: 1.6;
+  letter-spacing: 0.36px;
+  justify-content: center;
+  text-align: center;
+}
+#work_main{
+  width: 253px;
+  height: 80px;
+  margin:0px 0px 0px 30px;
+}
+#how_works{
+  font-family: Barlow;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: semi-condensed;
+}
+#desc_work{
+  font-family: ProductSans;
+  font-size: 10px;
+  line-height: 1.6;
+  letter-spacing: 0.36px;
+}
+#learn_btn{
+  border-radius: 13.5px;
+  background-color: #ff394a;
+  color:white;
+}
+#learn_btn.MuiButton-text{
+   padding:5px 25px 5px 25px !important;
+}
+#learn_btn.MuiButton-label{
+  padding:0px;
+} 
+
+
+

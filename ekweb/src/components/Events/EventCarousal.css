@@ -1,0 +1,18 @@
+.carousel-caption{
+    top:100px;
+    left:-400px;
+}
+h3{
+    font-family: Barlow;
+  font-size: 28px;
+  font-weight: 100;
+  font-stretch: semi-condensed;
+}
+.carousel-caption button{
+    border: solid 0.5px #ffffff;
+    background-image: linear-gradient(to bottom, var(--black), rgba(0, 0, 0, 0));
+    color:white;
+}
+.carousel-caption .MuiButton-sizeLarge{
+    padding:5px 80px;
+}

@@ -1,0 +1,36 @@
+
+    #Profile_nav.bg-dark {
+        background-color: #00355d !important;
+        position: absolute !important;
+        width:100%;
+    }
+   #Profile_nav{
+        height:148px;
+        display:flex !important;
+        justify-content: flex-end !important;
+        flex-wrap: wrap;
+    }
+    .mr-auto, .mx-auto {
+        margin-right:200px !important;
+    }
+    .navbar-nav{
+     margin-top:-70px;
+    }
+    .navbar-dark .navbar-nav .nav-link {
+        color:white;
+        font-size:12px;
+    }
+    #round_img{
+        position: relative !important;
+        top:50px;
+        left:200px;
+    }
+    #profile_name{
+        position: relative;
+        top:-120px;
+        left:400px;
+   }
+   #profile_name span{
+        color:white;
+    }
+  

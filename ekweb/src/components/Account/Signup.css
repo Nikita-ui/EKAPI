@@ -1,0 +1,140 @@
+.fa {
+    position: relative;
+    top: -60px;
+    left: 330px;
+    color:grey !important;
+}
+._centered
+{
+    margin:0 auto;
+    border-radius: 26.5px;
+    padding:5px 35px 5px 35px;
+    margin-top:30px;
+    font-family: SFUIDisplay;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1.29px;
+    background-color: #0091ff;
+    margin-bottom:20px;
+   
+}
+#signup_form .container{
+    padding-left:25px !important;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+
+.modal-content{
+    border-radius:30px !important;
+    padding:25px 0px 25px 0px !important;
+}
+.modal-title{
+    text-align:center !important;
+    font-weight: bold;
+}
+.modal-header{
+    display:inline-block !important;
+    border-bottom:0px;
+}
+.close{
+    position:relative;
+    top:-60px;
+    left:-20px;
+}
+
+#signup_form .MuiFormControl-root{
+  width:350px !important;
+}
+#signup_form .MuiFormControl-root{
+    width:350px !important;
+  }
+
+#signup_form .MuiInputBase-input{
+    padding-left:0px !important;
+ }
+#signup_form .MuiInputLabel-formControl{
+    left:0px !important;
+    justify-content: flex-end;
+ }
+ #signup_modal .close{
+    left:-30px;
+    top:-60px;
+    position: relative;
+ }
+ #signup_form .MuiFormControl-marginNormal{
+   margin-bottom:30px !important;
+ }
+ .react-tel-input {
+     width:150px !important;
+     padding-left:10px;
+ }
+ .react-tel-input input[type="text"], .react-tel-input input[type="tel"]{
+    font: inherit;
+    color: currentColor;
+    width: 100%;
+    border: 0 !important;
+    border-bottom:1px solid grey !important;
+    height: 0px !important;
+    margin: 0 !important;
+    display: block;
+    padding: 6px 0 7px;
+    padding-left: 10px !important;
+    padding-top:40px !important;
+    min-width: 0;
+    background: none;
+    box-sizing: none !important;
+    width:75px !important;
+    border-radius: 0 !important;
+ }
+ .form-control:focus{
+     box-shadow: none !important;
+ }
+ .react-tel-input .flag-dropdown{
+    position:relative !important;
+    top: 0;
+    bottom: 0;
+    padding: 0;
+    background: none !important;
+    background-color: none !important;
+    border: 0px !important;
+    border-radius: 0 !important;
+ }
+ .react-tel-input .selected-flag{
+    border-radius: 0 !important;
+    z-index: 13;
+    position: relative;
+    width: 38px;
+    height: 100%;
+    padding: 0 0 0 8px;
+ }
+ .react-tel-input .flag{
+     background: none !important;
+ }
+ .react-tel-input .flag-dropdown.open-dropdown .selected-flag{
+     border:0px !important;
+ }
+ .react-tel-input .selected-flag .arrow{
+    position: relative;
+    top: -10px !important;
+    margin-top: -2px;
+    left: 50px!important;
+    width: 20;
+    height: 70;
+    border-left: 5px solid transparent !important;
+    border-right: 5px solid transparent !important;
+    border-top: 5px solid grey !important;
+    border-bottom: 5px solid ransparent !important;
+ }
+ .react-tel-input .country-list{
+    width: 250px !important;
+    max-height: 180px !important;
+ }
+ .react-tel-input .selected-flag .arrow.up {
+    border-bottom: 0px solid #555 !important;
+ }
+
+
+
+ 
+

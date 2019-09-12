@@ -1,0 +1,29 @@
+#search_nav.bg-dark {
+    background-color: #00355d !important;
+    padding:0px 200px 0px 200px !important;
+}
+.form-control {
+    width: 345px;
+    height: 35px;
+    border-radius: 32.5px;
+    border: solid 0.8px #ffffff;
+    background-color: rgba(0, 0, 0, 0.46);
+    margin-top:25px;
+}
+#s_icon.MuiSvgIcon-root {
+    position: relative;
+    top: -30px;
+    left: 300px;
+    color:white;
+}
+#search_nav.navbar {
+    height: 47px;
+}
+.navbar-brand {
+    margin:0px 220px 0px 230px !important;
+}
+#search_nav.navbar-dark .navbar-nav .nav-link {
+    color:white;
+    font-size: 12px;
+    font-weight: 500;
+}

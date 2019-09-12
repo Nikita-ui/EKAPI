@@ -1,0 +1,88 @@
+.MuiPaper-root{
+    border-radius:0px !important;
+    background-image: linear-gradient(to bottom, #004fa2, #075776);
+    color:white !important;
+  
+}
+.MuiTypography-body1 {
+    font-family: SFUIDisplay;
+    font-size: 14px !important;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 100 !important;
+}
+#see_cat.MuiButton-containedPrimary{
+    color:white !important;
+    font-size: 14px;
+    background-color: transparent !important;
+}
+#see_cat.MuiButton-sizeLarge {
+    padding:10px 60px 10px 60px !important;
+    font-size: 14px !important;
+    border: 1px solid white;
+    border-radius: 20.5px !important;
+    margin:10px 20px 20px 30px;
+}
+.MuiButton-sizeLarge {
+    padding: 10px 30px !important;
+    font-size: 14px !important;
+}
+.MuiButton-containedPrimary {
+    color:black !important;
+    font-family: SFUIDisplay;
+    font-size: 14px;
+    background-color: white !important;
+}
+.MuiButton-root {
+    border-radius: 20px !important;
+    text-transform: none !important;
+}
+#cat_btn{
+    display:flex;
+    justify-content: space-evenly;
+    margin:20px 0px 20px 0px;
+    font-family: SFUIDisplay;
+    font-size: 14px;
+ }
+ #filter_div{
+  justify-content: space-between;
+   flex-wrap: wrap;  
+   margin:50px 280px 20px 110px; 
+ }
+ #card_div{
+    justify-content: space-between;
+    margin:30px 20px 20px 110px; 
+    flex-wrap: wrap;  
+ }
+ #filtericon.MuiSvgIcon-root{
+    position: static;
+    top: 45px;
+    left: -10px;
+ }
+ #filter_btn.MuiButton-containedPrimary{
+    color:black !important;
+    font-size: 14px;
+    background-color: #fafafa !important;
+    padding:0px 20px 0px 20px;
+}
+#filter_btn.MuiButton-sizeLarge 
+{
+    padding:10px 40px 10px 40px !important;
+}
+#website.MuiButton-containedPrimary,  #contacts.MuiButton-containedPrimary{
+    background-color: transparent !important;
+}
+#website.MuiButton-sizeLarge, #contacts.MuiButton-sizeLarge{
+    padding:5px 40px 5px 40px !important;
+    margin:0px 0px 10px 0px !important;
+} 
+.Highlights {
+
+    font-family: SFUIDisplay;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    color: var(--black);
+  }

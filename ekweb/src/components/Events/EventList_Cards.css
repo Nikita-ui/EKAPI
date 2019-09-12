@@ -1,0 +1,31 @@
+#event_card.MuiPaper-root{
+    background-image: none !important;
+    width: 370px;
+    border-radius:10px !important; 
+    color:black !important;
+}
+
+.MuiTypography-h5 {
+    font-size:16px !important;
+    font-weight: 500 !important;
+}
+.MuiTypography-subtitle1{
+    font-size:12px !important;
+    font-weight: 500 !important;
+    color:black !important; 
+}
+
+.makeStyles-details-149,.makeStyles-details-107,.makeStyles-details-113,.makeStyles-details-2,.makeStyles-details-31, .makeStyles-details-90,.makeStyles-details-96, .makeStyles-details-168, .makeStyles-details-174, .makeStyles-details-180, .makeStyles-details-186, .makeStyles-details-192, .makeStyles-details-198, .makeStyles-details-204, .makeStyles-details-210 {
+
+    flex-direction: row !important;
+}
+.makeStyles-playIcon-153, .makeStyles-playIcon-6,.makeStyles-playIcon-111,.makeStyles-playIcon-117,.makeStyles-playIcon-94, .makeStyles-playIcon-35,.makeStyles-playIcon-100,.makeStyles-playIcon-172, .makeStyles-playIcon-178, .makeStyles-playIcon-184, .makeStyles-playIcon-190, .makeStyles-playIcon-196, .makeStyles-playIcon-202,.makeStyles-playIcon-208, .makeStyles-playIcon-214 {
+   width:15px !important;
+   height:15.4px !important;
+}
+#img1{
+    position: static !important;
+    width:140px;
+    height:84px;
+    margin:15px 10px 10px 10px;
+}

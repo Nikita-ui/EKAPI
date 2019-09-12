@@ -1,0 +1,99 @@
+
+.modal-header{
+   border-bottom:0px;
+   font-family: SFUIDisplay;
+   letter-spacing: 0.5px;
+   line-height:0px !important;
+   padding:0px !important;
+   padding-top:20px;
+   margin-top:20px;
+  }
+  .modal-body{
+    padding-top:0px !important;
+  }
+
+  .social_btn{
+   display:flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   text-align: center;
+   margin-left: 30px;
+
+  }
+ .social-icon{
+     width: 35px !important;
+     height:35px !important;
+     margin: 30px;
+     text-align: center;
+     margin-left:0px !important;
+ }
+  .OR{
+     margin-top:25px;
+     font-family: HelveticaNeue;
+     text-align: center;
+     font-weight: bold;
+   }
+   .MuiFormControl-marginNormal{
+      margin:0px !important;
+   }
+
+  .input_field{
+   text-align: center !important;
+  }
+   .MuiFormControl-root{
+      width:500px !important;
+      position:absolute;
+    }
+    #icon1.MuiSvgIcon-root, #icon2.MuiSvgIcon-root{
+      position:relative;
+      top:10px;
+      left:30px;
+    }
+    .MuiInputBase-input{
+        padding-left:40px !important;
+    }
+
+    .internal-autofill-selected {
+      background-color: none !important;
+    }
+  
+    .MuiInputLabel-formControl{
+       left:40px !important;
+    }
+    #submit_btn.row {
+        justify-content: center;
+    }
+    #socials_btn.row {
+      justify-content: center;
+  }
+  #or_btn.row {
+   justify-content: center;
+}
+#login_frm.row{
+   justify-content: center;
+}
+   #newuser.row {
+       width:200px;
+       margin:0 auto;
+    }
+    .new_user{
+         margin-top:20px;
+         margin-bottom:10px;
+         height: 51px;
+         border-radius: 25.5px;
+         border: solid 1px black;
+         background-color: #ffffff;
+         text-align: center;
+         padding-top:15px;
+    }
+  
+  input:-webkit-autofill:focus {
+   -webkit-box-shadow: 0 0 0 50px white inset;
+  }
+  #login_eye_icon.fa{
+     position: relative;
+   top: -20px !important;
+   left: 530px !important;
+   color: grey !important;
+
+  }

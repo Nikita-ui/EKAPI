@@ -1,0 +1,24 @@
+
+
+#newuser.row{
+    flex-wrap: nowrap !important;
+    border-radius: 23px;
+    justify-content: center;
+    width:230px !important;
+}
+#dl_icon.MuiSvgIcon-root{
+    top:0px !important;
+ }
+#sh_icon.MuiSvgIcon-root{
+    top:0px !important;
+}
+#qr_span{
+    margin-right:10px;
+    margin-left:10px;
+}
+#sh_span{
+    margin-right:10px;
+    margin-left:10px;
+    text-align: left;
+    padding-left:30px;
+}
